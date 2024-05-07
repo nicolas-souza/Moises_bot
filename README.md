@@ -1,10 +1,5 @@
 # Bot Moisés
 
-Created time: January 3, 2023 2:12 PM
-Last edited time: January 3, 2023 2:31 PM
-Status: Caminhando
-Type: Post
-
 > Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso de Engenharia de Controle e Automação e apresentado em outubro de 2022
 > 
 
